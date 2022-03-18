@@ -12,7 +12,7 @@ Road map:
     [x] Inclusão do script no arquivo package.json
      "ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/server.ts"
     [x]  Criação da base express
-    [ ]  Instalação prisma orm
+    [x]  Instalação prisma orm
     [x]  Criação da imagem do postgres
     [ ]  Criação da camada de repositório
     [ ]  Criação da camada de models
